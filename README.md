@@ -60,10 +60,11 @@ Le site se veut **pédagogique, simple et accessible**, afin d’aider aussi bie
 - **Auteur** : BANCÉ Robert 
 - 📧 Email : bancerobert6@gmail.com  
 - 🌍 Localisation : Burkina Faso, Ouagadougou, Karpala  
-- 🔗 Facebook : [Purement Scientifiques](https://www.facebook.com/profile.php?id=61578809606637&locale=fr_FR)
+- 🔗 Vous pouvez ouvrir la page grace a ce lien:https://robandigit.com/projet-web-html-css-js/index.html#accueil ,C'est mon domaine:
 
   ### 1. Clonage du projet
 ```bash
 git clone https://github.com/Robertbance/projet-web-html-css-js.git
 cd projet-web-html-css-js
  
+-Le 10 Septembre 2025
