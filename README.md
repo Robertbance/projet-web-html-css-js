@@ -62,7 +62,7 @@ Le site se veut **pédagogique, simple et accessible**, afin d’aider aussi bie
 - 🌍 Localisation : Burkina Faso, Ouagadougou, Karpala  
 - 🔗 Facebook : [Purement Scientifiques](https://www.facebook.com/profile.php?id=61578809606637&locale=fr_FR)
 
-  ### 1. Cloner le projet
+  ### 1. Clonage du projet
 ```bash
 git clone https://github.com/Robertbance/projet-web-html-css-js.git
 cd projet-web-html-css-js
