@@ -60,7 +60,7 @@ Le site se veut **pédagogique, simple et accessible**, afin d’aider aussi bie
 - **Auteur** : BANCÉ Robert 
 - 📧 Email : bancerobert6@gmail.com  
 - 🌍 Localisation : Burkina Faso, Ouagadougou, Karpala  
-- 🔗 Vous pouvez ouvrir la page grace a ce lien:https://robandigit.com/projet-web-html-css-js/index.html#accueil ,C'est mon domaine:
+- 🔗 Vous pouvez ouvrir la page grace à ce lien: https://robertbance.github.io/projet-web-html-css-js/
 
   ### 1. Clonage du projet
 ```bash
