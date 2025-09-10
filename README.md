@@ -62,9 +62,6 @@ Le site se veut **pédagogique, simple et accessible**, afin d’aider aussi bie
 - 🌍 Localisation : Burkina Faso, Ouagadougou, Karpala  
 - 🔗 Vous pouvez ouvrir la page grace à ce lien: https://robertbance.github.io/projet-web-html-css-js/
 
-  ### 1. Clonage du projet
-```bash
-git clone https://github.com/Robertbance/projet-web-html-css-js.git
-cd projet-web-html-css-js
+
  
--Le 10 Septembre 2025
+## Le 10 Septembre 2025
